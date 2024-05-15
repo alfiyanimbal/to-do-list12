@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>objects</title>
+</head>
+<body>
+	    <h1 id="innoo"></h1>
+	    <h1 id="innoo1"></h1>
+	    <h1 id="innoo2"></h1>
+		<h1 id="innoo3"></h1>
+	    <h1 id="innoo4"></h1>
+	    <h1 id="innoo5"></h1>
+	    <h1 id="innoo6"></h1>
+	    <h1 id="innoo7"></h1>
+	    <h1 id="innoo8"></h1>
+	    <h1 id="innoo9"></h1>
+	    <h1 id="innoo10"></h1>
+	    <h1 id="innoo11"></h1>
+	    <h1 id="innoo12"></h1>
+	    <h1 id="innoo13"></h1>
+	    <h1 id="innoo14"></h1>
+
+	    <script type="text/javascript">
+	    	const student = {name:"annu",age:18,RegNo:1,school:"chetana"}
+	    	const student1 = {name:"preeti",age:15,RegNo:2,school:"chetana"}
+	    	const student2 = {name:"akash",age:19,RegNo:3,school:"chetana"}
+	    	const student3 = {name:"sanjana",age:13,RegNo:6,school:"chetana"}
+	    	const student4 = {name:"aish",age:18,RegNo:11,school:"chetana"}
+	    	const student5 = {name:"alfiya",age:18,RegNo:102,school:"chetana"}
+	    	const student6 = {name:"afsa",age:10,RegNo:134,school:"chetana"}
+	    	const student7 = {name:"kiri",age:18,RegNo:156,school:"chetana"}
+	    	const student8 = {name:"asad",age:13,RegNo:112,school:"chetana"}
+	    	const student9 = {name:"sana",age:17,RegNo:16,school:"chetana"}
+	    	const student10 = {name:"altaf",age:16,RegNo:135,school:"chetana"}
+	    	const student11 = {name:"soahial",age:18,RegNo:13,school:"chetana"}
+	    	const student12 = {name:"shahid",age:19,RegNo:17,school:"chetana"}
+	    	const student13 = {name:"junaid",age:20,RegNo:19,school:"chetana"}
+	    	const student14 = {name:"ajju",age:18,RegNo:10,school:"chetana"}
+
+
+	    	document.getElementById('innoo').innerHTML = "my name is " + student.name + "my age is" + student.age + "my RegNo is" + student.RegNo + "my school name is" + student.school;
+
+	    	document.getElementById('innoo1').innerHTML = "my name is " + student1.name + "my age is" + student1.age + "my RegNo is" + student1.RegNo + "my school name is" + student1.school;
+
+	    	document.getElementById('innoo2').innerHTML = "my name is " + student2.name + "my age is" + student2.age + "my RegNo is" + student2.RegNo + "my school name is" + student2.school;
+
+	    	document.getElementById('innoo3').innerHTML = "my name is " + student3.name + "my age is" + student3.age + "my RegNo is" + student3.RegNo + "my school name is" + student3.school;
+
+	    	document.getElementById('innoo4').innerHTML = "my name is " + student4.name + "my age is" + student4.age + "my RegNo is" + student4.RegNo + "my school name is" + student4.school;
+
+	    	document.getElementById('innoo5').innerHTML = "my name is " + student5.name + "my age is" + student5.age + "my RegNo is" + student5.RegNo + "my school name is" + student5.school;
+
+	    	document.getElementById('innoo6').innerHTML = "my name is " + student6.name + "my age is" + student6.age + "my RegNo is" + student6.RegNo + "my school name is" + student6.school;
+
+	    	document.getElementById('innoo7').innerHTML = "my name is " + student7.name + "my age is" + student7.age + "my RegNo is" + student7.RegNo + "my school name is" + student7.school;
+
+	    	document.getElementById('innoo8').innerHTML = "my name is " + student8.name + "my age is" + student8.age + "my RegNo is" + student8.RegNo + "my school name is" + student8.school;
+
+	    	document.getElementById('innoo9').innerHTML = "my name is " + student9.name + "my age is" + student9.age + "my RegNo is" + student9.RegNo + "my school name is" + student9.school;
+
+	    	document.getElementById('innoo10').innerHTML = "my name is " + student10.name + "my age is" + student10.age + "my RegNo is" + student10.RegNo + "my school name is" + student10.school;
+
+	    	document.getElementById('innoo11').innerHTML = "my name is " + student11.name + "my age is" + student11.age + "my RegNo is" + student11.RegNo + "my school name is" + student11.school;
+
+	    	document.getElementById('innoo2').innerHTML = "my name is " + student12.name + "my age is" + student12.age + "my RegNo is" + student12.RegNo + "my school name is" + student12.school;
+
+	    	document.getElementById('innoo13').innerHTML = "my name is " + student13.name + "my age is" + student13.age + "my RegNo is" + student13.RegNo + "my school name is" + student13.school;
+
+	    	document.getElementById('innoo14').innerHTML = "my name is " + student14.name + "my age is" + student14.age + "my RegNo is" + student14.RegNo + "my school name is" + student14.school;
+
+	    </script>
+</body>
+</html>
